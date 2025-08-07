@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felix-Brodmann
-- 👀 I’m interested in Web and App-Development
-- 🌱 I’m currently learning Swift/SwiftUI
+- 👀 I’m interested in backend architecture and app development
+- 🌱 I’m currently learning Golang
 - 📫 You can reach me by felix.brodmann.geschaeftlich@gmail.com
 
 <!---
