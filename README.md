@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Felix-Brodmann&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Felix Brodmann](https://www.linkedin.com/in/felix-brodmann-62ab4028a/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-brodmann-62ab4028a/)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:febro12@icloud.com)
 
 ## 💰 You can help me by Donating
